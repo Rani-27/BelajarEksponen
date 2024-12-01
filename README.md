@@ -1,0 +1,2 @@
+# BelajarEksponen
+Eksponen Itu Mudah
